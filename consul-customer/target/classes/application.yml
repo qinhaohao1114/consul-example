@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: consul-customer
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+      discovery:
+        service-name: consul-customer
+server:
+  port: 7891

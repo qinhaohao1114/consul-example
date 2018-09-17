@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/consul-customer/consul-customer.iml" filepath="$PROJECT_DIR$/consul-customer/consul-customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consul-example.iml" filepath="$PROJECT_DIR$/consul-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consul-producer/consul-producer.iml" filepath="$PROJECT_DIR$/consul-producer/consul-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consul-producer-two/consul-producer-two.iml" filepath="$PROJECT_DIR$/consul-producer-two/consul-producer-two.iml" />
+    </modules>
+  </component>
+</project>
